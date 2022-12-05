@@ -15,12 +15,12 @@ class FNStatic {
     }
 
     private static function FNPrivate(){
-        echo "Functie static private eee </br>";
+        echo "Functie static private </br>";
 
     }
 
     public static function FNPublic(){
-        echo "Functie static publica eee </br>";
+        echo "Functie static publica </br>";
         self::FNPrivate();
     }
 }
