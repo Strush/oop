@@ -15,7 +15,7 @@ class FNStatic {
     }
 
     private static function FNPrivate(){
-        echo "Functie static private </br>";
+        echo "Functie static private eee </br>";
 
     }
 
