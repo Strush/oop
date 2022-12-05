@@ -13,6 +13,7 @@ class CRequest {
     public function send_request(){
         $secret = $this->secret_key();
         echo '</br> Secret: '. $secret . '</br>';
+        echo 'trait on develop branch';
     }
 }
 
