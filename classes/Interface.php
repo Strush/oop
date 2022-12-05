@@ -22,6 +22,7 @@ class Money implements Card, Pin {
     {
         echo "Card ->";
         echo "Is_card";
+
     }
 
     public function is_iban()
