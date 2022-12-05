@@ -11,6 +11,7 @@ class FNStatic {
     protected static function FNProtected(){
         echo "Functie static protected </br>";
         echo "From develop branch";
+        echo "test commit";
     }
 
     private static function FNPrivate(){
