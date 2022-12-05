@@ -20,7 +20,7 @@ class FNStatic {
     }
 
     public static function FNPublic(){
-        echo "Functie static publica </br>";
+        echo "Functie static publica eee </br>";
         self::FNPrivate();
     }
 }
