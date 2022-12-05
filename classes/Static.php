@@ -10,10 +10,12 @@ class FNStatic {
 
     protected static function FNProtected(){
         echo "Functie static protected </br>";
+        echo "From develop branch";
     }
 
     private static function FNPrivate(){
         echo "Functie static private </br>";
+        echo "From develop branch";
     }
 
     public static function FNPublic(){
